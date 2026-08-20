@@ -1,0 +1,5 @@
+Component,Amount_USD,Recognized,Recognized_Amount_USD
+"Realized P&L, closed positions during period",10500.0,True,10500.0
+"Open listed positions, aggregate fair value",60500.0,True,60500.0
+"FRGF written put, corrected fair value",-654.42,True,-654.42
+"SLRA OTC call, model-based mark (Level 3)",117500.0,False,0.0

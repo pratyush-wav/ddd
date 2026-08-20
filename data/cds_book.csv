@@ -1,0 +1,4 @@
+Trade_Ref,Reference_Entity,Notional_USD,Direction,Coupon_bps,Status,Realized_PnL_USD,Fair_Value_USD
+ARI-WTM-CDS-0011,Orion Studios Holdings LLC,25000000,Protection Buyer,100,"Closed 28-Sep-25 (credit event, auction settled)",14437500,0
+ARI-WTM-CDS-0018,Lumivue Streaming Corp,40000000,Protection Buyer,250,Open,0,1245000
+ARI-WTM-CDS-0022,Timberline Entertainment Group Inc,30000000,Protection Seller,380,Open,0,-720000

@@ -1,0 +1,14 @@
+Assumption,Value,Source
+SOFR base rate,4.30%,Step 1 / floating-rate engine
+Beta tape servicer fee fallback,15 bps,Step 1 / no fee column in Beta tape
+Timberline prepayment date,2025-10-05,Corporate Actions Notice 1
+Orion mezz Q4 accrual,$0,RSA/CDS exchange: old mezz note extinguished
+Emberlight PIK Q4 interest,"$781,250",Corporate Actions Notice 2
+GBP/USD spot (YE25),1.2585,08_FX_Forward_Confirmations.txt
+JPY/USD spot (YE25),156.85,08_FX_Forward_Confirmations.txt
+EUR/USD spot (YE25),1.0397,08_FX_Forward_Confirmations.txt
+NAV (Greystone estimate),"$385,000,000",01_Fund_Overview_Memo.txt
+Greystone covenant single-name limit,12.5% of NAV,02_Greystone_Facility_Agreement_Excerpt.txt
+Average balance proxy,Period-end balance,No intra-quarter data available
+SLRA option fair value,Model-based (62% vol),09_Options / private co — not independently verifiable
+FRGF option MV shown in GBp,Converted at 1.2585 spot,09_Options critical note

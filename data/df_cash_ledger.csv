@@ -1,0 +1,35 @@
+Value_Date,Booking_Date,Description,Category_Raw,Amount_USD,Running_Balance_USD,Reference,Notes
+2025-10-01,2025-10-01,Interest received - Lumivue unitranche Q3 coupon,LOAN_INT_IN,2172000,45320000.0,WTM-L-0005,
+2025-10-01,2025-10-01,Interest received - Prismrock Live Events Q3 coupon,LOAN_INT_IN,475000,45795000.0,WTM-L-0004,
+2025-10-02,2025-10-02,Interest received - Solara Content Q3 coupon (drawn portion),LOAN_INT_IN,472500,46267500.0,WTM-L-0006,
+2025-10-02,2025-10-02,Unused facility fee Solara Q3,LOAN_FEE_IN,29143,46296643.0,WTM-L-0006,Unused fee: 50bps * avg undrawn ($23.5M) * 90/360
+2025-10-03,2025-10-03,Timberline Music Rights coupon Q3 (partial - transfer),LOAN_INT_IN,262500,46559143.0,BLA-0044,Pre-transfer accrual per Beta
+2025-10-03,2025-10-03,Emberlight Records monthly coupon Sep25,LOAN_INT_IN,464625,47023768.0,WTM-L-0003,
+2025-10-04,2025-10-04,IRS payment received (net) Q3,SWAP_NET,1250000,48273768.0,GTB-IRS-2024-0342,Fund received net floating > fixed
+2025-10-04,2025-10-04,IRS payment made (net) Q3,SWAP_NET,-1725000,46548768.0,GTB-IRS-2024-0342,"Fund paid net fixed > floating - CHECK: two entries same day both marked NET, one is error"
+2025-10-15,2025-10-15,Greystone revolver interest payment,DEBT_INT_OUT,-5250000,41298768.0,GTB-RCF-24,Interest on drawn balance Q3. Applicable rate: SOFR+275+CSA
+2025-10-15,2025-10-15,Greystone revolver commitment fee Q3,DEBT_FEE_OUT,-93750,41205018.0,GTB-RCF-24,40bps on avg unused $187.5M for 90 days
+2025-10-31,2025-10-31,Content library lease payment - Longwood Music Trust,LEASE_OUT,-450000,40755018.0,LEASE-CML-Q3,Quarterly per lease agreement - see registry
+2025-11-04,2025-11-04,Office lease payment - NYC,LEASE_OUT,-142000,40613018.0,LEASE-NYC-M,Nov payment - monthly
+2025-11-04,2025-11-04,Office lease payment - LA,LEASE_OUT,-88000,40525018.0,LEASE-LA-M,Nov payment - monthly
+2025-11-04,2025-11-04,Northwind Systems managed cloud lease Nov,LEASE_OUT,-215000,40310018.0,LEASE-CMP-M,IT infrastructure lease
+2025-11-10,2025-11-10,CDS premium payment - Orion protection Q3,SWAP_PREM_OUT,-62500,40247518.0,ARI-WTM-CDS-0011,"100bps * $25M * 90/360 = $62,500"
+2025-11-10,2025-11-10,CDS premium payment - Lumivue protection Q3,SWAP_PREM_OUT,-250000,39997518.0,ARI-WTM-CDS-0018,250bps * $40M * 90/360
+2025-11-10,2025-11-10,CDS premium received - Timberline Ent short protection Q3,SWAP_PREM_IN,285000,40282518.0,ARI-WTM-CDS-0022,380bps * $30M * 90/360
+2025-11-20,2025-11-20,Sub-license royalty received - streaming catalog,ROYALTY_IN,875000,41157518.0,SUBL-Q3-STR,Q3 royalty from streamers - Timberline sub-license
+2025-11-20,2025-11-20,Sub-license royalty received - sync fees,ROYALTY_IN,320000,41477518.0,SUBL-Q3-SYNC,Q3 sync fees - Timberline catalog
+2025-11-25,2025-11-25,FX Forward roll - GBP/USD (net cash on roll),FX_ROLL,-96000,41381518.0,WTM-FX-0044,Net cash on roll of expired WTM-FX-0031 into WTM-FX-0044 - CHECK sign
+2025-12-01,2025-12-01,Bridge loan interest Greystone Bridge,LOAN_INT_IN,127000,41508518.0,WTM-L-0012,Monthly coupon
+2025-12-15,2025-12-15,Capital call #7 receipt from LPs,LP_CAPITAL_IN,25000000,66508518.0,CC-2025-07,See LP notices
+2025-12-15,2025-12-15,LP distribution paid,LP_DIST_OUT,-15000000,51508518.0,DIST-2025-04,Q4 distribution
+2025-12-20,2025-12-20,Options premium received - EMBL calls sold,OPT_PREM_IN,88000,51596518.0,OPT-EMBL-APR26,Sold 800 contracts @ $1.10
+2025-12-30,2025-12-30,Option exercise - LMVU call exercised (cash for shares),OPT_EX_OUT,-1350000,50246518.0,OPT-LMVU-DEC25,Exercised 150 contracts @ $90 strike = 15000 sh * $90 = $1.35M outflow
+2025-12-31,2025-12-31,Ironbridge term loan interest H2,DEBT_INT_OUT,-8250000,41996518.0,IRBK-TL,Semi-annual 8.25% coupon on $200M for H2
+2025-12-31,2025-12-31,Orion mezz Q4 coupon (NOT RECEIVED - accrued),LOAN_INT_ACCR,0,41996518.0,WTM-L-0002,"Delinquent - see restructuring. Accrued $640,625 not received"
+2025-09-28,2026-01-08,Cash settlement CDS Orion credit event,SWAP_SETTLE,14437500,,ARI-WTM-CDS-0011,Auction settlement receipt - BOOKED WITH LAG. Direction assumed as receipt (Fund is protection buyer). VERIFY.
+2025-12-30,2025-12-30,Bank interest income on operating cash,MISC_IN,45000,,,Cash sweep interest
+2025-10-05,2025-10-05,Management fee to GP - Q3,GP_FEE_OUT,-950000,,,1.5% ann on committed capital / 4 - GP fee - see LPA
+2025-12-05,2025-12-05,Management fee to GP - Q4,GP_FEE_OUT,-950000,,,1.5% ann on committed capital / 4
+2025-11-15,2025-11-15,Fund audit fee - Whitfield Hale 2025,ADMIN_OUT,-185000,,,
+2025-12-31,2025-12-31,Fund administrator fee Q4,ADMIN_OUT,-75000,,,
+2025-11-30,2025-11-30,LP capital call refund - Cayman feeder over-called Q3,LP_CAPITAL_OUT,-3200000,,CC-2025-06R,"Refund - was over-called Q3, see LP notices"

@@ -1,0 +1,4 @@
+Trade_Ref,Pair,Purpose,Direction_Assessment,Realized_PnL_USD,Status
+WTM-FX-0044,GBP/USD,Hedge (Thornbury loan),WRONG WAY - adds to GBP exposure instead of hedging it,-2273600.0000000033,Settled 31-Dec-25
+WTM-FX-0045,USD/JPY,Hedge (Haruki loan),"Correct direction, but undersized post Nov-25 reset",488230.4581984114,Settled 31-Dec-25
+WTM-FX-0046,EUR/USD,Unstated / standalone,Not a hedge - no EUR underlying exposure in the dataset,,"Open (value date 31-Mar-26); MTM -$92,625"

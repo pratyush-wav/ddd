@@ -1,0 +1,18 @@
+Loan_Key,Obligor_Name,CCY,Origination_Date,Maturity_Date,Tranche,Commitment_Native,Outstanding_Native,Coupon_Type,Coupon_Spread_bps,Fixed_Rate_Pct,Servicer,Servicer_Fee_bps,Reporting_Basis,Notes_Internal,FX_Rate_to_USD,Outstanding_USD,Commitment_USD
+WTM-L-0005,Lumivue Streaming Corp,USD,2024-09-12,2029-09-12,Unitranche,80000000.0,80000000.0,Floating,700.0,,Alpha,25.0,Trade-date,,1.0,80000000.0,80000000.0
+WTM-L-0003,Emberlight Records Group,USD,2024-05-22,2030-05-22,Senior Sec,60000000.0,58500000.0,Floating,525.0,,Alpha,20.0,Trade-date,,1.0,58500000.0,60000000.0
+WTM-L-0001,Orion Studios Holdings LLC,USD,2024-03-15,2028-03-15,Term A,45000000.0,45000000.0,Floating,650.0,,Alpha,25.0,Trade-date,,1.0,45000000.0,45000000.0
+BLA-0171,Lumivue Streaming Corp,USD,2025-03-15 00:00:00,2030-03-15 00:00:00,2ND LIEN,40000000.0,40000000.0,Fixed,,11.5,Beta,,Settlement,,1.0,40000000.0,40000000.0
+BLA-0088,Thornbury Publishing GBP LTD,GBP,2024-03-11 00:00:00,2029-03-11 00:00:00,SR SEC,28000000.0,28000000.0,Fixed,,6.75,Beta,,Settlement,,1.2585,35238000.0,35238000.0
+WTM-L-0006,Solara Content Partners,USD,2024-11-04,2028-11-04,Revolver,50000000.0,32000000.0,Floating,475.0,,Alpha,35.0,Trade-date,,1.0,32000000.0,50000000.0
+WTM-L-0011,Timberline Music Rights I LLC,USD,2025-08-20,2032-08-20,Term Loan,30500000.0,30500000.0,Fixed,,9.0,Alpha,20.0,Trade-date,,1.0,30500000.0,30500000.0
+WTM-L-0008,Frostgate Films Ltd,USD,2025-04-30,2028-04-30,Term Loan,22000000.0,22000000.0,Floating,600.0,,Alpha,25.0,Trade-date,,1.0,22000000.0,22000000.0
+WTM-L-0004,Prismrock Live Events Inc,USD,2024-07-08,2027-07-08,Term Loan,20000000.0,20000000.0,Fixed,,9.5,Alpha,30.0,Trade-date,,1.0,20000000.0,20000000.0
+BLA-0119,Equinox Live Ent GmbH,EUR,2025-01-15 00:00:00,2028-01-15 00:00:00,TERM,18000000.0,18000000.0,Fixed,,7.5,Beta,,Settlement,,1.0655,19178999.999999996,19178999.999999996
+WTM-L-0009,Haruki Anime Studios KK,USD,2025-06-11,2028-06-11,Term Loan,18000000.0,18000000.0,Fixed,,8.75,Alpha,30.0,Trade-date,,1.0,18000000.0,18000000.0
+WTM-L-0007,Ridgeline Post-Production LLC,USD,2025-02-19,2028-02-19,Term Loan,15000000.0,15000000.0,Fixed,,11.0,Alpha,30.0,Trade-date,,1.0,15000000.0,15000000.0
+BLA-0141,Dawnridge Post-Prod Services,USD,2025-04-20 00:00:00,2028-04-20 00:00:00,TERM,14000000.0,14000000.0,Fixed,,10.25,Beta,,Settlement,,1.0,14000000.0,14000000.0
+WTM-L-0012,Greystone Bridge Loan,USD,2025-10-15,2026-04-15,Bridge,12000000.0,12000000.0,Floating,800.0,,Alpha,0.0,Trade-date,,1.0,12000000.0,12000000.0
+WTM-L-0002,Orion Studios Holdings LLC,USD,2024-03-15,2028-03-15,Term B (Mezz) - RSA EXCHANGED 30-Sep-25,10562500.0,10562500.0,Fixed,,10.25,Alpha,25.0,Trade-date,,1.0,10562500.0,10562500.0
+BLA-0128,Orion Studios Holdings LLC,USD,2024-03-15 00:00:00,2028-03-15 00:00:00,RCF,15000000.0,9750000.0,Floating,525.0,,Beta,,Settlement,,1.0,9750000.0,15000000.0
+WTM-L-0013,Emberlight Records Group,USD,2024-05-22,2030-05-22,PIK Toggle,1850000.0,1850000.0,Fixed,,12.5,Alpha,,Trade-date,PIK toggle tranche; balance = cumulative PIK accrued through YE25 (non-cash income),1.0,1850000.0,1850000.0

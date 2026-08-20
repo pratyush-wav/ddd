@@ -1,0 +1,5 @@
+Hedge,Notional_USD,Q4_Hedge_PnL_USD,Assessment
+IRS (Greystone facility),250000000,-287000.0,Correctly directed (pay fixed vs. floating facility cost); oversized vs. actual utilization by ~1.2x-2.2x per Step 3; persistent basis drag of 367825/yr
+GBP/USD forward (Thornbury loan),22400000,-2273600.0000000033,WRONG DIRECTION -- adds to GBP exposure instead of offsetting it; ~$4.55M swing vs. correct hedge
+JPY/USD forward (Haruki loan),2400000000,488230.4581984114,"Correct direction, offsetting; but undersized by JPY 337.8M (~2153650) post Nov-25 reset"
+CDS protection on Lumivue,40000000,,Correctly directed hedge on loan exposure; currently in-the-money (spreads widened)
